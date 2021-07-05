@@ -1,0 +1,26 @@
+{
+  "name": "vanilla-takehome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtruj013/vanilla-takehome.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtruj013/vanilla-takehome/issues"
+  },
+  "homepage": "https://github.com/mtruj013/vanilla-takehome#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.35.1",
+    "vanilla-framework": "^2.32.0"
+  }
+}
